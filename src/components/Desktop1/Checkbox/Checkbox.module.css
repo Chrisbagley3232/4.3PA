@@ -1,0 +1,34 @@
+.color.color {
+  left: 3px;
+  top: 3px;
+  width: 18px;
+  height: 18px;
+  -webkit-mask-image:/* webpackIgnore: true */ url('/assets/on.svg');
+  mask-image:/* webpackIgnore: true */ url('/assets/on.svg');
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-position: 0px 0px;
+  mask-position: 0px 0px;
+  -webkit-mask-size: 18px 18px;
+  mask-size: 18px 18px;
+}
+.root {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 24px;
+  height: 24px;
+  align-items: flex-start;
+}
+.off {
+  position: absolute;
+  left: 3px;
+  top: 3px;
+  width: 18px;
+  height: 18px;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}

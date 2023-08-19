@@ -1,0 +1,101 @@
+.cardBg.cardBg {
+  right: 0;
+  bottom: 0;
+  width: initial;
+  height: initial;
+}
+.imagePlaceholder.imagePlaceholder {
+  right: 0;
+  width: initial;
+  height: 176px;
+}
+.textButton.textButton {
+  left: 95px;
+  bottom: 7px;
+  top: initial;
+  width: 97px;
+}
+.label {
+  color: #1554f6;
+  font-size: 14px;
+  line-height: 16px;
+  font-weight: 500;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  position: absolute;
+  left: 2px;
+  right: 2px;
+  top: 50%;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+  transform: translateY(-50%);
+}
+.textButton2.textButton2 {
+  bottom: 7px;
+  top: initial;
+  width: 95px;
+}
+.label2 {
+  color: #1554f6;
+  font-size: 14px;
+  line-height: 16px;
+  font-weight: 500;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  position: absolute;
+  left: 2px;
+  right: 2px;
+  top: 50%;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+  transform: translateY(-50%);
+}
+._1pxDivider._1pxDivider {
+  right: 0;
+  bottom: 44px;
+  top: initial;
+  width: initial;
+}
+.root {
+  position: absolute;
+  left: 191px;
+  top: 141px;
+  width: 344px;
+  height: 304px;
+  align-items: flex-start;
+}
+.kangarooValleySafari {
+  color: #fff;
+  font-size: 24px;
+  line-height: 24px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 18px;
+  top: 137px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.text {
+  color: #000000de;
+  font-size: 14px;
+  line-height: 24px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 18px;
+  right: 15px;
+  top: 191px;
+  height: 48px;
+  flex-direction: column;
+}

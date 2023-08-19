@@ -1,0 +1,17 @@
+.root {
+  position: absolute;
+  left: 0;
+  right: 93.3333%;
+  top: 0;
+  bottom: 66.6667%;
+  align-items: flex-start;
+  overflow: hidden;
+}
+.bounds {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 24px;
+  height: 24px;
+  background-color: #0000001f;
+}

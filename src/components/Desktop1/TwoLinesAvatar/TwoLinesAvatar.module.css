@@ -1,0 +1,48 @@
+.listItemsListRow2LineAvatar.listItemsListRow2LineAvatar {
+  right: 0;
+  top: 152px;
+  width: initial;
+}
+.rowBg.rowBg {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  overflow: visible;
+}
+.listItemsListRow2LineAvatar2.listItemsListRow2LineAvatar2 {
+  right: 0;
+  top: 80px;
+  width: initial;
+}
+.rowBg2.rowBg2 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  overflow: visible;
+}
+.listItemsListRow2LineAvatar3.listItemsListRow2LineAvatar3 {
+  right: 0;
+  top: 8px;
+  width: initial;
+}
+.rowBg3.rowBg3 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  overflow: visible;
+}
+.root {
+  position: absolute;
+  left: 879px;
+  top: 181px;
+  width: 360px;
+  height: 224px;
+  align-items: flex-start;
+  overflow: hidden;
+}

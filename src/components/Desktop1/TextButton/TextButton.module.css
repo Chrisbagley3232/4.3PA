@@ -1,0 +1,27 @@
+.root {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 96px;
+  height: 36px;
+  align-items: flex-start;
+}
+.label {
+  color: #1554f6;
+  font-size: 14px;
+  line-height: 16px;
+  font-weight: 500;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  position: absolute;
+  left: 2px;
+  right: 2px;
+  top: 50%;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+  transform: translateY(-50%);
+}

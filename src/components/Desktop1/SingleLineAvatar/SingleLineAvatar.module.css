@@ -1,0 +1,48 @@
+.listItemsListRowSingleLineAvat.listItemsListRowSingleLineAvat {
+  right: 0;
+  top: 8px;
+  width: initial;
+}
+.rowBounds.rowBounds {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  overflow: visible;
+}
+.listItemsListRowSingleLineAvat2.listItemsListRowSingleLineAvat2 {
+  right: 0;
+  top: 64px;
+  width: initial;
+}
+.rowBounds2.rowBounds2 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  overflow: visible;
+}
+.listItemsListRowSingleLineAvat3.listItemsListRowSingleLineAvat3 {
+  right: 0;
+  top: 120px;
+  width: initial;
+}
+.rowBounds3.rowBounds3 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  overflow: visible;
+}
+.root {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 360px;
+  height: 184px;
+  align-items: flex-start;
+  overflow: hidden;
+}
